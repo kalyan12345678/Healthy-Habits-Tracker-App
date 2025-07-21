@@ -23,11 +23,11 @@
 
 ## 🎥 Video Walkthrough of the Project
 
-> \[  ]
+> \[ https://drive.google.com/file/d/1ET_fI56TT2stFmgC8VMXwE69bucxS_K-/view?usp=drive_link ]
 
 ## 🎥 Video Walkthrough of the Codebase
 
-> \[ ]
+> \[ https://drive.google.com/file/d/1ZpFtc-FEP5i57b2Rb1xIxleYob_PrSrV/view?usp=drive_link ]
 
 ---
 
